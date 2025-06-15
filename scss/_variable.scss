@@ -1,0 +1,23 @@
+$deep-black: hsla(0,0%,0%, .75);
+$black: hsl(0,0%,8%);
+
+$grey: hsl(0,0%,85%);
+$dark-grey: hsl(0,0%,14%);
+
+$error: hsl(7,100%,68%);
+$green: hsl(153,71%,59%);
+$white: hsl(0,0%,100%);
+$white-lowop: hsla(0,0%,100%, .5);
+
+
+$breakpoints:(
+    xs:480px,
+    sm:640px,
+    lg:1024px
+);
+
+$fontSm:1.2rem;
+$fontMd:1.5rem;
+$fontLg:2rem;
+$fontXl:4.5rem;
+
